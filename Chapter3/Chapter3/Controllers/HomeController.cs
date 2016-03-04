@@ -26,5 +26,10 @@ namespace Chapter3.Controllers
 
             return View();
         }
+
+        public ActionResult Edit()
+        {
+            return View();
+        }
     }
 }
